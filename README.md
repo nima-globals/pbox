@@ -6,7 +6,7 @@ An all-in-one program to meet your needs without having to install several diffe
 #### 🖼 Pictures:
 
 <div align="center">
-<img src="https://github.com/nima-globals/pbox/blob/main/screenshots/image1.png" width="400">
+<img src="https://raw.githubusercontent.com/nima-globals/pbox/main/pbox.png" width="400">
 </div>
 <br>
 <div align="center">
